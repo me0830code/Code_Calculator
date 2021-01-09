@@ -1,5 +1,5 @@
 # Calculator
-Date : 106 / 06 / 12
+Date : 2017 / 06 / 12
 
 # Motivation & Purpose
 Side Project - Developing Apps for iOS ( CS193P ) at Stanford University
